@@ -4,4 +4,4 @@ This challenge uses KMeans and PCA to look at stock data.  The first is original
 
 ## References
 **Resource:** I looked at HoloViz Documentation for plot composition
-[HoloViz](https://holoviz.org/tutorial/Composing_Plots.html)
+- [HoloViz](https://holoviz.org/tutorial/Composing_Plots.html)
